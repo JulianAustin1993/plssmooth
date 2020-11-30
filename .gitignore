@@ -80,3 +80,6 @@ fabric.properties
 /*.egg-info/
 /doc/build/
 /examples/.ipynb_checkpoints/
+doc/source/_static/
+doc/source/_templates/
+plssmooth/__pycache__/
