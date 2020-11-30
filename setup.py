@@ -28,6 +28,7 @@ setup(
     ],
     tests_require=['pytest',
                    'numpy',
-                   'scipy'],
+                   'scipy',
+                   'basis'],
     include_package_data=True,
     zip_safe=False)

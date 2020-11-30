@@ -1,1 +1,1 @@
-from .plssmooth import pls_smooth
+from .plssmooth import plss, plss_rgcv, PLSS

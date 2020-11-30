@@ -79,3 +79,4 @@ crashlytics-build.properties
 fabric.properties
 /*.egg-info/
 /doc/build/
+/examples/.ipynb_checkpoints/
