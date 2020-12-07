@@ -12,6 +12,9 @@ celerybeat-schedule
 venv/
 ENV/
 
+#Macos
+.DS_Store
+
 # Spyder project settings
 .spyderproject
 
